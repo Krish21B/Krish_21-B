@@ -1,4 +1,4 @@
-qimport React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Sun, Moon, Home, User, Briefcase, Mail, 
   MapPin, ExternalLink, Code2, GraduationCap, ChevronRight,
