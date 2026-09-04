@@ -4,7 +4,7 @@ import {
   MapPin, ExternalLink, Code2, GraduationCap, ChevronRight,
   Terminal, Sparkles, Send, LayoutGrid
 } from 'lucide-react';
-
+import './App.css'
 import './index.css';
 
 // --- Custom Brand SVG Icons ---
